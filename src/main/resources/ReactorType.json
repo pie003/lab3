@@ -1,0 +1,154 @@
+{"Reactors":
+    [
+        {
+            "reactorClass": "MKER",
+            "burnup": 30,
+            "kpd": 0.352,
+            "enrichment": 0.024,
+            "thermalCapacity": 4250,
+            "electricalCapacity": 1500,
+            "lifeTime": 50,
+            "firstLoad": 192
+        },
+        {
+            "reactorClass": "RBMK",
+            "burnup": 25,
+            "kpd": 0.3125,
+            "enrichment": 0.027,
+            "thermalCapacity": 3200,
+            "electricalCapacity": 1000,
+            "lifeTime": 40,
+            "firstLoad": 192
+        },
+        {
+            "reactorClass": "VVER-1200",
+            "burnup": 40,
+            "kpd": 0.33,
+            "enrichment": 0.0385,
+            "thermalCapacity": 3200,
+            "electricalCapacity": 1056,
+            "lifeTime": 60,
+            "firstLoad": 79.84
+        },
+        {
+            "reactorClass": "AP1000",
+            "burnup": 43.2,
+            "kpd": 0.339,
+            "enrichment": 0.048,
+            "thermalCapacity": 3415,
+            "electricalCapacity": 1158,
+            "lifeTime": 60,
+            "firstLoad": 93.65
+        },
+        {
+            "reactorClass": "BWR",
+            "burnup": 45,
+            "kpd": 0.343,
+            "enrichment": 0.041,
+            "thermalCapacity": 3572,
+            "electricalCapacity": 1252,
+            "lifeTime": 60,
+            "firstLoad": 128.0
+        },
+        {
+            "reactorClass": "ABWR",
+            "burnup": 46.4,
+            "kpd": 0.3655,
+            "enrichment": 0.036,
+            "thermalCapacity": 4500,
+            "electricalCapacity": 1645,
+            "lifeTime": 60,
+            "firstLoad": 128.0
+        },
+        {
+            "reactorClass": "EPR",
+            "burnup": 36.1,
+            "kpd": 0.3515,
+            "enrichment": 0.032,
+            "thermalCapacity": 3992,
+            "electricalCapacity": 1404.5,
+            "lifeTime": 60,
+            "firstLoad": 140.66
+        },
+        {
+            "reactorClass": "MAGNOX",
+            "burnup": 4.5,
+            "kpd": 0.23,
+            "enrichment": 0.01,
+            "thermalCapacity": 728,
+            "electricalCapacity": 184,
+            "lifeTime": 60,
+            "firstLoad": 120
+        },
+        {
+            "reactorClass": "BN",
+            "burnup": 140,
+            "kpd": 42.05,
+            "enrichment": 0.21,
+            "thermalCapacity": 2800,
+            "electricalCapacity": 1220,
+            "lifeTime": 60,
+            "firstLoad": 50.4
+        },
+        {
+            "reactorClass": "PWR",
+            "burnup": 42.0,
+            "kpd": 34.0,
+            "enrichment": 0.045,
+            "thermalCapacity": 3411,
+            "electricalCapacity": 1150,
+            "lifeTime": 50,
+            "firstLoad": 74.0
+        },
+        {
+            "reactorClass": "CPR-1000",
+            "burnup": 52.0,
+            "kpd": 35.1,
+            "enrichment": 0.045,
+            "thermalCapacity": 2900,
+            "electricalCapacity": 1021,
+            "lifeTime": 40,
+            "firstLoad": 77.0
+        },
+        {
+            "reactorClass": "CANDU",
+            "burnup": 8,
+            "kpd": 0.30,
+            "enrichment": 0.0071,
+            "thermalCapacity": 2343,
+            "electricalCapacity": 742,
+            "lifeTime": 60,
+            "firstLoad": 38.9
+        },
+        {
+            "reactorClass": "PHWR",
+            "burnup": 8,
+            "kpd": 0.30,
+            "enrichment": 0.0071,
+            "thermalCapacity": 2343,
+            "electricalCapacity": 742,
+            "lifeTime": 60,
+            "firstLoad": 38.9
+        },
+        {
+            "reactorClass": "KLT-40",
+            "burnup": 42,
+            "kpd": 0.30,
+            "enrichment": 0.16,
+            "thermalCapacity": 150,
+            "electricalCapacity": 32,
+            "lifeTime": 36,
+            "firstLoad": 0.007
+        },
+        {
+            "reactorClass": "PWR",
+            "burnup": 40,
+            "kpd": 0.33,
+            "enrichment": 0.044,
+            "thermalCapacity": 3200,
+            "electricalCapacity": 1056,
+            "lifeTime": 60,
+            "firstLoad": 79.84
+        }
+    ]
+}
