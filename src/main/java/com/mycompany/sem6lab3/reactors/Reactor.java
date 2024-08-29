@@ -35,7 +35,7 @@ public class Reactor {
         reactorClass = Class;
     }
 
-    public void setBurnup(int burnup) {
+    public void setBurnup(double burnup) {
         this.burnup = burnup;
     }
 
@@ -47,19 +47,19 @@ public class Reactor {
         this.enrichment=enrichment;
     }
 
-    public void setTermalCapacity(int termal_capacity) {
+    public void setTermalCapacity(double termal_capacity) {
         this.termal_capacity=termal_capacity;
     }
 
-    public void setElectricalCapacity(int electrical_capacity) {
+    public void setElectricalCapacity(double electrical_capacity) {
         this.electrical_capacity=electrical_capacity;
     }
 
-    public void setLifeTime(int life_time) {
+    public void setLifeTime(double life_time) {
         this.life_time=life_time;
     }
 
-    public void setFirstLoad(int first_load) {
+    public void setFirstLoad(double first_load) {
         this.first_load=first_load;
     }
 
